@@ -15,7 +15,7 @@ CommonJS 或者 es6引入方式
 
 原始引入方式
 ```html
-    <script type="text/javascript" src="print-html-element.js"></script>
+    <script type="text/javascript" src="dom-animation.js"></script>
 ```
 > dom-animation.[min].js在dist目录
 

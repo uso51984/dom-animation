@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["dom-animation"] = factory();
+		exports["domAnimation"] = factory();
 	else
-		root["dom-animation"] = factory();
+		root["domAnimation"] = factory();
 })(this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -671,4 +671,4 @@ module.exports = __webpack_require__(6);
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=css-animation.js.map
+//# sourceMappingURL=dom-animation.js.map

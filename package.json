@@ -22,7 +22,7 @@
   "config": {
     "port": 9001,
     "entry": {
-      "css-animation": [
+      "dom-animation": [
         "./src/index.js"
       ]
     }

@@ -7,7 +7,7 @@
     "animation"
   ],
   "homepage": "https://github.com/uso51984/dom-animation",
-  "author": "",
+  "author": "edmund chen",
   "repository": {
     "type": "git",
     "url": "git@github.com:uso51984/dom-animation.git"
@@ -30,11 +30,8 @@
   "scripts": {
     "dist": "rc-tools run dist --babel-runtime",
     "build": "rc-tools run build",
-    "gh-pages": "rc-tools run gh-pages",
     "start": "rc-tools run server",
-    "pub": "rc-tools run pub --babel-runtime",
-    "compile": "rc-tools run compile --babel-runtime",
-    "lint": "rc-tools run lint"
+    "compile": "rc-tools run compile --babel-runtime"
   },
   "devDependencies": {
     "rc-tools": "6.x",
